@@ -4,6 +4,7 @@ Saw a similar repo by [Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-pre
 ## Books
 
 1. [Green Book](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) - 12 Sep 2025 begin working through the Green Book.
+2. [Jane Street Probability and Markets](https://www.janestreet.com/static/pdfs/trading-interview.pdf?utm_source=web&utm_medium=pdf&utm_campaign=probability_markets_guide)
 
 ## Foundations
 This section has random foundational tasks to work on when a brain break is needed or if free time is available.
