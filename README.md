@@ -5,7 +5,7 @@ Saw a similar repo by [Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-pre
 
 1. [Green Book](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) - 12 Sep 2025 begin working through the Green Book.
 
-## Default
+## Foundations
 This section has random foundational tasks to work on when a brain break is needed or if free time is available.
 
 1. [Mental Math](https://mathtrainer.ai/) - Practice Arithmetic
