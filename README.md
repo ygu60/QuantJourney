@@ -11,4 +11,4 @@ Saw a similar repo by [Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-pre
 ## Foundations
 This section has random foundational tasks to work on when a brain break is needed or if free time is available.
 
-1. [Mental Math](https://mathtrainer.ai/) - Practice Arithmetic
+1. [Mental Math](https://openquant.co/math-game) - Practice Arithmetic
